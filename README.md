@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ayush Bhavsar 👋
 
 ## 🚀 About Me
 I'm a passionate frontend developer with a love for creating beautiful and intuitive user interfaces. I enjoy turning complex problems into simple, elegant solutions. My goal is to build products that are not only visually appealing but also provide a seamless user experience.
