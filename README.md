@@ -1,76 +1,68 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+# Hi there, I'm [Your Name] 👋
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-</h1>
+## 🚀 About Me
+I'm a passionate frontend developer with a love for creating beautiful and intuitive user interfaces. I enjoy turning complex problems into simple, elegant solutions. My goal is to build products that are not only visually appealing but also provide a seamless user experience.
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+---
 
-<br/>
+### 💻 Tech Stack
+Here are a few technologies I've been working with recently:
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+*   **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+*   **Frameworks/Libraries:** React, Vue.js, Next.js, Gatsby
+*   **Styling:** Styled-Components, Sass, Tailwind CSS, Material-UI
+*   **State Management:** Redux, MobX, Vuex
+*   **Testing:** Jest, React Testing Library, Cypress
+*   **Build Tools:** Webpack, Vite, Parcel
+*   **Other:** Git, Figma, Storybook
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+---
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+### ✨ Featured Projects
+Here are some of the projects I'm most proud of. You can find more on my GitHub profile!
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+####  Project 1: [Project Name](link-to-project)
+*   **Description:** A short description of the project, what it does, and the problem it solves.
+*   **Tech Stack:** React, Next.js, Tailwind CSS
+*   **Highlights:**
+    *   Implemented a fully responsive design that works on all devices.
+    *   Optimized performance by lazy-loading images and code-splitting.
+    *   Ensured accessibility by following WCAG 2.1 guidelines.
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+#### Project 2: [Project Name](link-to-project)
+*   **Description:** A short description of the project, what it does, and the problem it solves.
+*   **Tech Stack:** Vue.js, Vuex, Sass
+*   **Highlights:**
+    *   Built a complex, data-driven dashboard with real-time updates.
+    *   Created custom, reusable components to maintain a consistent design system.
+    *   Integrated with a REST API to fetch and display data.
 
-<br/>
-<hr/>
+---
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+### 🌱 I'm Currently Learning
+I'm always looking to expand my skillset. Currently, I'm focused on:
 
-<hr/>
+*   **Svelte:** Exploring its unique approach to building web applications.
+*   **WebAssembly:** Diving into how it can be used to improve performance in web apps.
+*   **UI/UX Design:** Sharpening my design skills to create more user-centric products.
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+---
 
-<br/><br/>
+### 📫 How to Reach Me
+Feel free to connect with me on any of the following platforms:
 
-<hr/>
+*   **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-username)
+*   **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+*   **Personal Website:** [your-website.com](https://your-website.com)
+*   **Email:** your-email@example.com
 
-<br/>
+---
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+Thanks for stopping by! I'm always open to new opportunities and collaborations. Let's build something amazing together! ✨
