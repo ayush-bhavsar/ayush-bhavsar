@@ -7,7 +7,7 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm always learning and exploring new technologies
 - 💬 Ask me about web development, programming, and tech
-- 📫 How to reach me: [Your Email Here]
+- 📫 How to reach me: ayushbhavsar1402@gmail.com
 - ⚡ Fun fact: I love turning coffee into code!
 
 ## 🛠️ Tech Stack
@@ -65,14 +65,6 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 ## 📈 Activity Graph
 
 ![Ayush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-bhavsar&theme=react-dark&hide_border=true)
-
-## 🌟 Featured Projects
-
-Here are some of my notable projects:
-
-### 🔥 [Project Name 1](https://github.com/ayush-bhavsar/project-1)
-Brief description of your amazing project and what technologies you used.
-
 
 ## 🤝 Connect with Me
 
