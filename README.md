@@ -36,6 +36,7 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
 ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=for-the-badge&logo=Apache-JMeter&logoColor=white)
 ![cypress](https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-Automation%20testing-ddeadc?style=for-the-badge&labelColor=15760f)
 
 
 ### Databases
