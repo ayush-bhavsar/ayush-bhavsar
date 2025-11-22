@@ -51,8 +51,6 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush-bhavsar&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-bhavsar&layout=compact&theme=radical&hide_border=false)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayush-bhavsar&theme=radical&hide_border=true)
 
 </div>
@@ -62,6 +60,11 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 <div align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayush-bhavsar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayush-bhavsar)](https://github.com/ayush-bhavsar/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayush-bhavsar&theme=onedark)](https://github.com/ayush-bhavsar/github-profile-trophy)
+
 
 </div>
 
