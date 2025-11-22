@@ -1,6 +1,6 @@
 # Hey there, I'm Ayush Bhavsar! 👋
 
-![Badge](https://img.shields.io/badge/Ayush--c08759?style=for-the-badge&labelColor=ffffff)
+![Badge](https://img.shields.io/badge/-Ayush-ffffff?style=for-the-badge)
 
 ## 🚀 About Me
 
