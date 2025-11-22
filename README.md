@@ -1,5 +1,7 @@
 # Hey there, I'm Ayush Bhavsar! 👋
 
+![Badge](https://img.shields.io/badge/Ayush--c08759?style=for-the-badge&labelColor=ffffff)
+
 ## 🚀 About Me
 
 I'm a passionate developer who loves creating innovative solutions and learning new technologies. Welcome to my GitHub profile!
