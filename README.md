@@ -30,6 +30,10 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 ![Express.js](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Numpy](https://img.shields.io/badge/-numpy-095d29?style=for-the-badge&logo=numpy&logoColor=ffffff)
+![Pandas](https://img.shields.io/badge/-pandas-260731?style=for-the-badge&logo=pandas&logoColor=ffffff)
+![Badge](https://img.shields.io/badge/-matplotlib-fe0606?style=for-the-badge&logo=matplotlib&logoColor=ffffff)
+![Badge](https://img.shields.io/badge/-seaborn-2b4bca?style=for-the-badge&logo=matplotlib&logoColor=ffffff)
 
 
 ### Tools & Platforms
