@@ -81,6 +81,7 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AyushBhavsr)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushbhavsar1402@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-portfolio.com) -->
+[![Badge](https://img.shields.io/badge/-Google%20for%20Developers-320070?style=for-the-badge&logo=google&logoColor=ffffff)](https://g.dev/dev-ayush)
 
 </div>
 
