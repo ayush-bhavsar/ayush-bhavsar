@@ -73,13 +73,15 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 
 ![Ayush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-bhavsar&theme=react-dark&hide_border=true)
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect !
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayushbhavsar1402)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AyushBhavsr)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/AyushBhavsr)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushbhavsar1402@gmail.com)
+<!-- [![Reddit](https://img.shields.io/badge/-Reddit-ff4200?style=for-the-badge&logo=Reddit&logoColor=ffffff)](reddit.com) -->
+[![Badge](https://img.shields.io/badge/-Bluesky-0a7aff?style=for-the-badge&logo=bluesky&logoColor=ffffff)](https://bsky.app/profile/ayush-bhavsar.bsky.social)
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-portfolio.com) -->
 [![Badge](https://img.shields.io/badge/-Google%20for%20Developers-320070?style=for-the-badge&logo=google&logoColor=ffffff)](https://g.dev/dev-ayush)
 
