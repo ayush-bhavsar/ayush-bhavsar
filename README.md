@@ -1,4 +1,4 @@
-# Hey there, I'm Ayush Bhavsar! 👋
+# Hey there, I'm <i> Ayush Bhavsar! </i> 👋
 
 ![Badge](https://img.shields.io/badge/-Ayush-ffffff?style=for-the-badge)
 
@@ -101,7 +101,7 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 
 ---
 
-<div align="center">
+<div align="center">    
 
 **Thanks for visiting! 😄**
 
